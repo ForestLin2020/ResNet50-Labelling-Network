@@ -13,7 +13,7 @@ DATASET_PATH  = 'dataset'
 IMAGE_SIZE = (224, 224)
 
 # class number
-NUM_CLASSES = 12
+NUM_CLASSES = 8
 
 # if lacking GPU memory， you can lower the batch size or reduce the freeze layers
 BATCH_SIZE = 8
